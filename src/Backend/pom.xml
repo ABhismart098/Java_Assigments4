@@ -1,0 +1,15 @@
+<dependencies>
+    <!-- Dependency for com.sun.net.httpserver -->
+    <dependency>
+        <groupId>com.sun.net.httpserver</groupId>
+        <artifactId>http</artifactId>
+        <version>20070405</version> <!-- Use the appropriate version -->
+    </dependency>
+
+    <!-- Dependency for com.corundumstudio.socketio -->
+    <dependency>
+        <groupId>com.corundumstudio.socketio</groupId>
+        <artifactId>netty-socketio</artifactId>
+        <version>1.7.17</version> <!-- Use the appropriate version -->
+    </dependency>
+</dependencies>
